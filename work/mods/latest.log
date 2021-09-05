@@ -1,0 +1,739 @@
+[06:42:29] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[06:42:29] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[06:42:29] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLServerTweaker
+[06:42:29] [main/INFO]: Forge Mod Loader version 7.99.4.1517 for Minecraft 1.7.10 loading
+[06:42:30] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_131, running on Linux:amd64:2.6.32-openvz-amd64, installed at /usr/lib/jvm/java-8-oracle/jre
+[06:42:30] [main/INFO]: [pw.prok.imagine.ImagineLoadingPlugin:<clinit>:26]: Loading plugin initialized!
+[06:42:32] [main/INFO]: [AppEng] Core Init
+[06:42:33] [main/INFO]: Loading tweaker forestry.shade.javacheck.Java7Checker from forestry_1.7.10-4.2.11.59.jar
+[06:42:33] [main/WARN]: The following coremods do not have a @MCVersion annotation. They may cause problems if this is not the correct version of Minecraft for them.
+[06:42:33] [main/WARN]: Missing @MCVersion: codechicken.core.launch.CodeChickenCorePlugin  cofh.asm.LoadingPlugin  codechicken.core.launch.DepLoader  ic2.core.coremod.IC2core  invtweaks.forge.asm.FMLPlugin  mekanism.common.asm.LoadingHook  mcp.mobius.mobiuscore.asm.CoreDescription  codechicken.nei.asm.NEICorePlugin  openblocks.OpenBlocksCorePlugin  openmods.OpenModsCorePlugin  lumien.randomthings.Transformer.RTLoadingPlugin  xreliquary.common.asm.DepLoader  
+[06:42:33] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[06:42:33] [main/INFO]: Loading tweak class name forestry.shade.javacheck.Java7Checker
+[06:42:33] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[06:42:33] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[06:42:34] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[06:42:34] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:42:34] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:42:37] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:42:37] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:42:37] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:42:41] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:42:41] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:42:41] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:42:41] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:42:41] [main/INFO]: Loaded library ejml-0.23.jar.
+[06:42:41] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:42:41] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:42:41] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:42:41] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:42:41] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:42:41] [main/INFO]: Calling tweak class forestry.shade.javacheck.Java7Checker
+[06:42:41] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:42:41] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:42:41] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:42:41] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[06:42:43] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:42:43] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:42:43] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[06:42:43] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[06:42:43] [main/INFO]: Current code is OBFUSCATED
+[06:42:43] [main/INFO]: Found cpw.mods.fml.common.FMLCommonHandler with checksum 150E8A1CAFAEF361B5401E373F7F141F
+[06:42:43] [main/INFO]: Successful injection in onPreServerTick ()V
+[06:42:43] [main/INFO]: Successful injection in onPostServerTick ()V
+[06:42:43] [main/INFO]: Successful injection in onPreWorldTick (Lahb;)V
+[06:42:43] [main/INFO]: Successful injection in onPostWorldTick (Lahb;)V
+[06:42:44] [main/INFO]: Switching injection mode to CAULDRON
+[06:42:44] [main/INFO]: [MobiusCore] Found net.minecraft.world.World [ ahb ] with checksum 29410132D9DEF5BE9DA946A7768C4169
+[06:42:44] [main/INFO]: Found World.updateEntities()...
+[06:42:44] [main/INFO]: Successful injection in h ()V
+[06:42:44] [main/INFO]: Successful injection in h ()V
+[06:42:44] [main/INFO]: Successful injection in h ()V
+[06:42:44] [main/INFO]: Successful injection in h ()V
+[06:42:44] [main/INFO]: Found World.<init> (Lazc;Ljava/lang/String;Lahj;Laqo;Lqi;)V
+[06:42:44] [main/INFO]: LINE        : L917306623
+[06:42:44] [main/INFO]: LINE        : 498
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESPECIAL java/lang/Object <init> ()V
+[06:42:44] [main/INFO]: LINE        : L313439652
+[06:42:44] [main/INFO]: LINE        : 140
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: TYPE_INSN   : NEW kcauldron/wrapper/ProcessingQueue
+[06:42:44] [main/INFO]: INSN        : DUP
+[06:42:44] [main/INFO]: TYPE_INSN   : NEW java/util/concurrent/ConcurrentLinkedQueue
+[06:42:44] [main/INFO]: INSN        : DUP
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESPECIAL java/util/concurrent/ConcurrentLinkedQueue <init> ()V
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESPECIAL kcauldron/wrapper/ProcessingQueue <init> (Ljava/util/Queue;)V
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb loadedEntityList_KC Ljava/util/Queue;
+[06:42:44] [main/INFO]: LINE        : L1127540746
+[06:42:44] [main/INFO]: LINE        : 141
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: TYPE_INSN   : NEW kcauldron/wrapper/QueueToList
+[06:42:44] [main/INFO]: INSN        : DUP
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: FIELD_INSN  : GETFIELD ahb loadedEntityList_KC Ljava/util/Queue;
+[06:42:44] [main/INFO]: TYPE_INSN   : CHECKCAST kcauldron/wrapper/ProcessingQueue
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKEVIRTUAL kcauldron/wrapper/ProcessingQueue unwrap ()Ljava/util/Collection;
+[06:42:44] [main/INFO]: TYPE_INSN   : CHECKCAST java/util/Queue
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESPECIAL kcauldron/wrapper/QueueToList <init> (Ljava/util/Queue;)V
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb e Ljava/util/List;
+[06:42:44] [main/INFO]: LINE        : L1625182602
+[06:42:44] [main/INFO]: LINE        : 142
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESTATIC com/google/common/collect/ImmutableList of ()Lcom/google/common/collect/ImmutableList;
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb f Ljava/util/List;
+[06:42:44] [main/INFO]: LINE        : L1247541543
+[06:42:44] [main/INFO]: LINE        : 143
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: TYPE_INSN   : NEW kcauldron/wrapper/ProcessingQueue
+[06:42:44] [main/INFO]: INSN        : DUP
+[06:42:44] [main/INFO]: TYPE_INSN   : NEW java/util/concurrent/ConcurrentLinkedQueue
+[06:42:44] [main/INFO]: INSN        : DUP
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESPECIAL java/util/concurrent/ConcurrentLinkedQueue <init> ()V
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESPECIAL kcauldron/wrapper/ProcessingQueue <init> (Ljava/util/Queue;)V
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb loadedTileEntityList_KC Ljava/util/Queue;
+[06:42:44] [main/INFO]: LINE        : L767522397
+[06:42:44] [main/INFO]: LINE        : 144
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: TYPE_INSN   : NEW kcauldron/wrapper/QueueToList
+[06:42:44] [main/INFO]: INSN        : DUP
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: FIELD_INSN  : GETFIELD ahb loadedTileEntityList_KC Ljava/util/Queue;
+[06:42:44] [main/INFO]: TYPE_INSN   : CHECKCAST kcauldron/wrapper/ProcessingQueue
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKEVIRTUAL kcauldron/wrapper/ProcessingQueue unwrap ()Ljava/util/Collection;
+[06:42:44] [main/INFO]: TYPE_INSN   : CHECKCAST java/util/Queue
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESPECIAL kcauldron/wrapper/QueueToList <init> (Ljava/util/Queue;)V
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb g Ljava/util/List;
+[06:42:44] [main/INFO]: LINE        : L1227865944
+[06:42:44] [main/INFO]: LINE        : 145
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: TYPE_INSN   : NEW java/util/ArrayList
+[06:42:44] [main/INFO]: INSN        : DUP
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESPECIAL java/util/ArrayList <init> ()V
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb a Ljava/util/List;
+[06:42:44] [main/INFO]: LINE        : L1542452726
+[06:42:44] [main/INFO]: LINE        : 146
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESTATIC com/google/common/collect/ImmutableList of ()Lcom/google/common/collect/ImmutableList;
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb b Ljava/util/List;
+[06:42:44] [main/INFO]: LINE        : L1315482989
+[06:42:44] [main/INFO]: LINE        : 147
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: TYPE_INSN   : NEW java/util/ArrayList
+[06:42:44] [main/INFO]: INSN        : DUP
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESPECIAL java/util/ArrayList <init> ()V
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb h Ljava/util/List;
+[06:42:44] [main/INFO]: LINE        : L414398307
+[06:42:44] [main/INFO]: LINE        : 148
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: TYPE_INSN   : NEW java/util/ArrayList
+[06:42:44] [main/INFO]: INSN        : DUP
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESPECIAL java/util/ArrayList <init> ()V
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb i Ljava/util/List;
+[06:42:44] [main/INFO]: LINE        : L751996498
+[06:42:44] [main/INFO]: LINE        : 149
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]:               LDC org.objectweb.asm.tree.LdcInsnNode@8b68e7b
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb c J
+[06:42:44] [main/INFO]: LINE        : L62802373
+[06:42:44] [main/INFO]: LINE        : 151
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]:               LDC org.objectweb.asm.tree.LdcInsnNode@2b76efe
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb l I
+[06:42:44] [main/INFO]: LINE        : L984600804
+[06:42:44] [main/INFO]: LINE        : 158
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: TYPE_INSN   : NEW java/util/Random
+[06:42:44] [main/INFO]: INSN        : DUP
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESPECIAL java/util/Random <init> ()V
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb s Ljava/util/Random;
+[06:42:44] [main/INFO]: LINE        : L114709660
+[06:42:44] [main/INFO]: LINE        : 159
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: FIELD_INSN  : GETFIELD ahb s Ljava/util/Random;
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKEVIRTUAL java/util/Random nextInt ()I
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb k I
+[06:42:44] [main/INFO]: LINE        : L2010629602
+[06:42:44] [main/INFO]: LINE        : 161
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: TYPE_INSN   : NEW java/util/ArrayList
+[06:42:44] [main/INFO]: INSN        : DUP
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESPECIAL java/util/ArrayList <init> ()V
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb u Ljava/util/List;
+[06:42:44] [main/INFO]: LINE        : L1320060280
+[06:42:44] [main/INFO]: LINE        : 168
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: TYPE_INSN   : NEW wb
+[06:42:44] [main/INFO]: INSN        : DUP
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESPECIAL wb <init> (Lahb;)V
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb B Lwb;
+[06:42:44] [main/INFO]: LINE        : L172119225
+[06:42:44] [main/INFO]: LINE        : 170
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESTATIC java/util/Calendar getInstance ()Ljava/util/Calendar;
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb J Ljava/util/Calendar;
+[06:42:44] [main/INFO]: LINE        : L1048871897
+[06:42:44] [main/INFO]: LINE        : 171
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: TYPE_INSN   : NEW bac
+[06:42:44] [main/INFO]: INSN        : DUP
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESPECIAL bac <init> ()V
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb D Lbac;
+[06:42:44] [main/INFO]: LINE        : L2000005438
+[06:42:44] [main/INFO]: LINE        : 181
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: TYPE_INSN   : NEW java/util/HashSet
+[06:42:44] [main/INFO]: INSN        : DUP
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESPECIAL java/util/HashSet <init> ()V
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb F Ljava/util/Set;
+[06:42:44] [main/INFO]: LINE        : L1300916197
+[06:42:44] [main/INFO]: LINE        : 187
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: INSN        : ICONST_0
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb captureTreeGeneration Z
+[06:42:44] [main/INFO]: LINE        : L1442125169
+[06:42:44] [main/INFO]: LINE        : 188
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: TYPE_INSN   : NEW java/util/ArrayList
+[06:42:44] [main/INFO]: INSN        : DUP
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESPECIAL java/util/ArrayList <init> ()V
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb capturedItems Ljava/util/ArrayList;
+[06:42:44] [main/INFO]: LINE        : L1333124701
+[06:42:44] [main/INFO]: LINE        : 196
+[06:42:44] [main/INFO]: FIELD_INSN  : GETSTATIC ahb preloadedCrashClasses Z
+[06:42:44] [main/INFO]:               IFNE org.objectweb.asm.tree.JumpInsnNode@15d3e2d4
+[06:42:44] [main/INFO]: LINE        : L192420548
+[06:42:44] [main/INFO]: LINE        : 199
+[06:42:44] [main/INFO]: TYPE_INSN   : NEW java/lang/Throwable
+[06:42:44] [main/INFO]: INSN        : DUP
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESPECIAL java/lang/Throwable <init> ()V
+[06:42:44] [main/INFO]: VAR_INSN    : ASTORE 6
+[06:42:44] [main/INFO]: LINE        : L1985730631
+[06:42:44] [main/INFO]: LINE        : 200
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 6
+[06:42:44] [main/INFO]:               LDC org.objectweb.asm.tree.LdcInsnNode@17bd67e7
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESTATIC b a (Ljava/lang/Throwable;Ljava/lang/String;)Lb;
+[06:42:44] [main/INFO]: VAR_INSN    : ASTORE 7
+[06:42:44] [main/INFO]: LINE        : L502456966
+[06:42:44] [main/INFO]: LINE        : 201
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 7
+[06:42:44] [main/INFO]:               LDC org.objectweb.asm.tree.LdcInsnNode@569765c6
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKEVIRTUAL b a (Ljava/lang/String;)Lk;
+[06:42:44] [main/INFO]: VAR_INSN    : ASTORE 8
+[06:42:44] [main/INFO]: LINE        : L2124814003
+[06:42:44] [main/INFO]: LINE        : 204
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 8
+[06:42:44] [main/INFO]:               LDC org.objectweb.asm.tree.LdcInsnNode@2d8d4df
+[06:42:44] [main/INFO]: TYPE_INSN   : NEW ahc
+[06:42:44] [main/INFO]: INSN        : DUP
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESPECIAL ahc <init> (Lahb;)V
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKEVIRTUAL k a (Ljava/lang/String;Ljava/util/concurrent/Callable;)V
+[06:42:44] [main/INFO]: LINE        : L137683152
+[06:42:44] [main/INFO]: LINE        : 210
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 8
+[06:42:44] [main/INFO]: INSN        : ICONST_0
+[06:42:44] [main/INFO]: INSN        : ICONST_0
+[06:42:44] [main/INFO]: INSN        : ICONST_0
+[06:42:44] [main/INFO]: FIELD_INSN  : GETSTATIC ajn a Laji;
+[06:42:44] [main/INFO]: INSN        : ICONST_M1
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESTATIC k a (Lk;IIILaji;I)V
+[06:42:44] [main/INFO]: LINE        : L1700793669
+[06:42:44] [main/INFO]: LINE        : 212
+[06:42:44] [main/INFO]: INSN        : ICONST_1
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTSTATIC ahb preloadedCrashClasses Z
+[06:42:44] [main/INFO]: LINE        : L733842644
+[06:42:44] [main/INFO]: LINE        : 220
+[06:42:44] [main/INFO]:               null org.objectweb.asm.tree.FrameNode@6f07db50
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]:               LDC org.objectweb.asm.tree.LdcInsnNode@409a9400
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb growthOdds F
+[06:42:44] [main/INFO]: LINE        : L628470643
+[06:42:44] [main/INFO]: LINE        : 221
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]:               LDC org.objectweb.asm.tree.LdcInsnNode@62695025
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb modifiedOdds F
+[06:42:44] [main/INFO]: LINE        : L862313059
+[06:42:44] [main/INFO]: LINE        : 241
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: INSN        : ICONST_0
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb restoringBlockSnapshots Z
+[06:42:44] [main/INFO]: LINE        : L667640475
+[06:42:44] [main/INFO]: LINE        : 242
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: INSN        : ICONST_0
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb captureBlockSnapshots Z
+[06:42:44] [main/INFO]: LINE        : L791520058
+[06:42:44] [main/INFO]: LINE        : 243
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: TYPE_INSN   : NEW java/util/ArrayList
+[06:42:44] [main/INFO]: INSN        : DUP
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESPECIAL java/util/ArrayList <init> ()V
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb capturedBlockSnapshots Ljava/util/ArrayList;
+[06:42:44] [main/INFO]: LINE        : L132986498
+[06:42:44] [main/INFO]: LINE        : 289
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: INSN        : ICONST_0
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb keepSpawnInMemory Z
+[06:42:44] [main/INFO]: LINE        : L449200862
+[06:42:44] [main/INFO]: LINE        : 500
+[06:42:44] [main/INFO]: INSN        : ICONST_0
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESTATIC net/minecraftforge/common/DimensionManager getWorld (I)Lmt;
+[06:42:44] [main/INFO]:               IFNULL org.objectweb.asm.tree.JumpInsnNode@666534a7
+[06:42:44] [main/INFO]: LINE        : L605253410
+[06:42:44] [main/INFO]: LINE        : 502
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: TYPE_INSN   : NEW org/spigotmc/SpigotWorldConfig
+[06:42:44] [main/INFO]: INSN        : DUP
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 2
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESPECIAL org/spigotmc/SpigotWorldConfig <init> (Ljava/lang/String;)V
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb spigotConfig Lorg/spigotmc/SpigotWorldConfig;
+[06:42:44] [main/INFO]: LINE        : L1243874308
+[06:42:44] [main/INFO]: LINE        : 503
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESPECIAL ahb initLimiter ()V
+[06:42:44] [main/INFO]: LINE        : L1650229036
+[06:42:44] [main/INFO]: LINE        : 504
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: TYPE_INSN   : NEW net/minecraftforge/cauldron/configuration/CauldronWorldConfig
+[06:42:44] [main/INFO]: INSN        : DUP
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 2
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESTATIC net/minecraft/server/MinecraftServer I ()Lnet/minecraft/server/MinecraftServer;
+[06:42:44] [main/INFO]: INSN        : POP
+[06:42:44] [main/INFO]: FIELD_INSN  : GETSTATIC net/minecraft/server/MinecraftServer cauldronConfig Lnet/minecraftforge/cauldron/configuration/CauldronConfig;
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESPECIAL net/minecraftforge/cauldron/configuration/CauldronWorldConfig <init> (Ljava/lang/String;Lnet/minecraftforge/cauldron/configuration/ConfigBase;)V
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb cauldronConfig Lnet/minecraftforge/cauldron/configuration/CauldronWorldConfig;
+[06:42:44] [main/INFO]: LINE        : L760463308
+[06:42:44] [main/INFO]: LINE        : 505
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: TYPE_INSN   : NEW net/minecraftforge/cauldron/configuration/TileEntityWorldConfig
+[06:42:44] [main/INFO]: INSN        : DUP
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 2
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESTATIC net/minecraft/server/MinecraftServer I ()Lnet/minecraft/server/MinecraftServer;
+[06:42:44] [main/INFO]: INSN        : POP
+[06:42:44] [main/INFO]: FIELD_INSN  : GETSTATIC net/minecraft/server/MinecraftServer tileEntityConfig Lnet/minecraftforge/cauldron/configuration/TileEntityConfig;
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESPECIAL net/minecraftforge/cauldron/configuration/TileEntityWorldConfig <init> (Ljava/lang/String;Lnet/minecraftforge/cauldron/configuration/ConfigBase;)V
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb tileentityConfig Lnet/minecraftforge/cauldron/configuration/TileEntityWorldConfig;
+[06:42:44] [main/INFO]: LINE        : L302432059
+[06:42:44] [main/INFO]: LINE        : 506
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: INSN        : ICONST_0
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESTATIC net/minecraftforge/common/DimensionManager getWorld (I)Lmt;
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKEVIRTUAL mt getWorld ()Lorg/bukkit/craftbukkit/v1_7_R4/CraftWorld;
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb world Lorg/bukkit/craftbukkit/v1_7_R4/CraftWorld;
+[06:42:44] [main/INFO]: LINE        : L2028506459
+[06:42:44] [main/INFO]: LINE        : 507
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: INSN        : ICONST_0
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESTATIC net/minecraftforge/common/DimensionManager getWorld (I)Lmt;
+[06:42:44] [main/INFO]: FIELD_INSN  : GETFIELD mt timings Lorg/bukkit/craftbukkit/v1_7_R4/SpigotTimings$WorldTimingsHandler;
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb timings Lorg/bukkit/craftbukkit/v1_7_R4/SpigotTimings$WorldTimingsHandler;
+[06:42:44] [main/INFO]: LINE        : L2043426933
+[06:42:44] [main/INFO]: LINE        : 508
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: TYPE_INSN   : NEW gnu/trove/map/hash/TLongShortHashMap
+[06:42:44] [main/INFO]: INSN        : DUP
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: FIELD_INSN  : GETFIELD ahb spigotConfig Lorg/spigotmc/SpigotWorldConfig;
+[06:42:44] [main/INFO]: FIELD_INSN  : GETFIELD org/spigotmc/SpigotWorldConfig chunksPerTick I
+[06:42:44] [main/INFO]: INSN        : ICONST_5
+[06:42:44] [main/INFO]: INSN        : IMUL
+[06:42:44] [main/INFO]:               LDC org.objectweb.asm.tree.LdcInsnNode@4951555f
+[06:42:44] [main/INFO]:               LDC org.objectweb.asm.tree.LdcInsnNode@6e09d429
+[06:42:44] [main/INFO]:               SIPUSH org.objectweb.asm.tree.IntInsnNode@52b70ee6
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESPECIAL gnu/trove/map/hash/TLongShortHashMap <init> (IFJS)V
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb activeChunkSet_CB Lgnu/trove/map/hash/TLongShortHashMap;
+[06:42:44] [main/INFO]: LINE        : L1243650901
+[06:42:44] [main/INFO]: LINE        : 509
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: FIELD_INSN  : GETFIELD ahb activeChunkSet_CB Lgnu/trove/map/hash/TLongShortHashMap;
+[06:42:44] [main/INFO]: INSN        : FCONST_0
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKEVIRTUAL gnu/trove/map/hash/TLongShortHashMap setAutoCompactionFactor (F)V
+[06:42:44] [main/INFO]: LINE        : L161010915
+[06:42:44] [main/INFO]: LINE        : 510
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: INSN        : ICONST_0
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESTATIC net/minecraftforge/common/DimensionManager getWorld (I)Lmt;
+[06:42:44] [main/INFO]: FIELD_INSN  : GETFIELD mt z Lazq;
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb z Lazq;
+[06:42:44] [main/INFO]:               GOTO org.objectweb.asm.tree.JumpInsnNode@2910f165
+[06:42:44] [main/INFO]: LINE        : L1127881375
+[06:42:44] [main/INFO]: LINE        : 514
+[06:42:44] [main/INFO]:               null org.objectweb.asm.tree.FrameNode@d0edb9e
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: INSN        : ACONST_NULL
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb spigotConfig Lorg/spigotmc/SpigotWorldConfig;
+[06:42:44] [main/INFO]: LINE        : L1115568400
+[06:42:44] [main/INFO]: LINE        : 515
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: INSN        : ACONST_NULL
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb cauldronConfig Lnet/minecraftforge/cauldron/configuration/CauldronWorldConfig;
+[06:42:44] [main/INFO]: LINE        : L1825268707
+[06:42:44] [main/INFO]: LINE        : 516
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: INSN        : ACONST_NULL
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb world Lorg/bukkit/craftbukkit/v1_7_R4/CraftWorld;
+[06:42:44] [main/INFO]: LINE        : L2142663175
+[06:42:44] [main/INFO]: LINE        : 517
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: INSN        : ACONST_NULL
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb timings Lorg/bukkit/craftbukkit/v1_7_R4/SpigotTimings$WorldTimingsHandler;
+[06:42:44] [main/INFO]: LINE        : L77562948
+[06:42:44] [main/INFO]: LINE        : 518
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: INSN        : ACONST_NULL
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb activeChunkSet_CB Lgnu/trove/map/hash/TLongShortHashMap;
+[06:42:44] [main/INFO]: LINE        : L924490622
+[06:42:44] [main/INFO]: LINE        : 519
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: INSN        : ACONST_NULL
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb z Lazq;
+[06:42:44] [main/INFO]: LINE        : L7938565
+[06:42:44] [main/INFO]: LINE        : 522
+[06:42:44] [main/INFO]:               null org.objectweb.asm.tree.FrameNode@4c934e47
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: FIELD_INSN  : GETFIELD ahb s Ljava/util/Random;
+[06:42:44] [main/INFO]:               SIPUSH org.objectweb.asm.tree.IntInsnNode@34564e35
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKEVIRTUAL java/util/Random nextInt (I)I
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb K I
+[06:42:44] [main/INFO]: LINE        : L1475670698
+[06:42:44] [main/INFO]: LINE        : 523
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: INSN        : ICONST_1
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb G Z
+[06:42:44] [main/INFO]: LINE        : L508857179
+[06:42:44] [main/INFO]: LINE        : 524
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: INSN        : ICONST_1
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb H Z
+[06:42:44] [main/INFO]: LINE        : L1222844320
+[06:42:44] [main/INFO]: LINE        : 525
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: TYPE_INSN   : NEW java/util/ArrayList
+[06:42:44] [main/INFO]: INSN        : DUP
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESPECIAL java/util/ArrayList <init> ()V
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb L Ljava/util/ArrayList;
+[06:42:44] [main/INFO]: LINE        : L1321391983
+[06:42:44] [main/INFO]: LINE        : 526
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]:               LDC org.objectweb.asm.tree.LdcInsnNode@3ed31dbf
+[06:42:44] [main/INFO]:               NEWARRAY org.objectweb.asm.tree.IntInsnNode@467476d
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb I [I
+[06:42:44] [main/INFO]: LINE        : L1411995230
+[06:42:44] [main/INFO]: LINE        : 527
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 1
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb w Lazc;
+[06:42:44] [main/INFO]: LINE        : L201890331
+[06:42:44] [main/INFO]: LINE        : 528
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 5
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb C Lqi;
+[06:42:44] [main/INFO]: LINE        : L714100928
+[06:42:44] [main/INFO]: LINE        : 529
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 1
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKEINTERFACE azc d ()Lays;
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb x Lays;
+[06:42:44] [main/INFO]: LINE        : L343025360
+[06:42:44] [main/INFO]: LINE        : 531
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 4
+[06:42:44] [main/INFO]:               IFNULL org.objectweb.asm.tree.JumpInsnNode@a7709a6
+[06:42:44] [main/INFO]: LINE        : L1114084017
+[06:42:44] [main/INFO]: LINE        : 533
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 4
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb t Laqo;
+[06:42:44] [main/INFO]:               GOTO org.objectweb.asm.tree.JumpInsnNode@6ad9cc6d
+[06:42:44] [main/INFO]: LINE        : L1872241472
+[06:42:44] [main/INFO]: LINE        : 535
+[06:42:44] [main/INFO]:               null org.objectweb.asm.tree.FrameNode@5d102d2c
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: FIELD_INSN  : GETFIELD ahb x Lays;
+[06:42:44] [main/INFO]:               IFNULL org.objectweb.asm.tree.JumpInsnNode@231cde25
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: FIELD_INSN  : GETFIELD ahb x Lays;
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKEVIRTUAL ays j ()I
+[06:42:44] [main/INFO]:               IFEQ org.objectweb.asm.tree.JumpInsnNode@702c48f
+[06:42:44] [main/INFO]: LINE        : L690910476
+[06:42:44] [main/INFO]: LINE        : 537
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: FIELD_INSN  : GETFIELD ahb x Lays;
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKEVIRTUAL ays j ()I
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESTATIC aqo a (I)Laqo;
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb t Laqo;
+[06:42:44] [main/INFO]:               GOTO org.objectweb.asm.tree.JumpInsnNode@750b4448
+[06:42:44] [main/INFO]: LINE        : L807620922
+[06:42:44] [main/INFO]: LINE        : 541
+[06:42:44] [main/INFO]:               null org.objectweb.asm.tree.FrameNode@2194dd0d
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: INSN        : ICONST_0
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESTATIC aqo a (I)Laqo;
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb t Laqo;
+[06:42:44] [main/INFO]: LINE        : L2068335142
+[06:42:44] [main/INFO]: LINE        : 544
+[06:42:44] [main/INFO]:               null org.objectweb.asm.tree.FrameNode@544e6803
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: FIELD_INSN  : GETFIELD ahb x Lays;
+[06:42:44] [main/INFO]:               IFNONNULL org.objectweb.asm.tree.JumpInsnNode@7e4e4931
+[06:42:44] [main/INFO]: LINE        : L2041945920
+[06:42:44] [main/INFO]: LINE        : 546
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: TYPE_INSN   : NEW ays
+[06:42:44] [main/INFO]: INSN        : DUP
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 3
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 2
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESPECIAL ays <init> (Lahj;Ljava/lang/String;)V
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb x Lays;
+[06:42:44] [main/INFO]: LINE        : L1083568938
+[06:42:44] [main/INFO]: LINE        : 547
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: FIELD_INSN  : GETFIELD ahb x Lays;
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: FIELD_INSN  : GETFIELD ahb t Laqo;
+[06:42:44] [main/INFO]: FIELD_INSN  : GETFIELD aqo i I
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKEVIRTUAL ays setDimension (I)V
+[06:42:44] [main/INFO]:               GOTO org.objectweb.asm.tree.JumpInsnNode@67bc854b
+[06:42:44] [main/INFO]: LINE        : L1798786892
+[06:42:44] [main/INFO]: LINE        : 551
+[06:42:44] [main/INFO]:               null org.objectweb.asm.tree.FrameNode@3ead82f5
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: FIELD_INSN  : GETFIELD ahb x Lays;
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 2
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKEVIRTUAL ays a (Ljava/lang/String;)V
+[06:42:44] [main/INFO]: LINE        : L1364077225
+[06:42:44] [main/INFO]: LINE        : 553
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: FIELD_INSN  : GETFIELD ahb x Lays;
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKEVIRTUAL ays getDimension ()I
+[06:42:44] [main/INFO]:               IFEQ org.objectweb.asm.tree.JumpInsnNode@525b7b16
+[06:42:44] [main/INFO]: LINE        : L54989630
+[06:42:44] [main/INFO]: LINE        : 554
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: FIELD_INSN  : GETFIELD ahb t Laqo;
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: FIELD_INSN  : GETFIELD ahb x Lays;
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKEVIRTUAL ays getDimension ()I
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD aqo i I
+[06:42:44] [main/INFO]:               GOTO org.objectweb.asm.tree.JumpInsnNode@51af8389
+[06:42:44] [main/INFO]: LINE        : L1897197687
+[06:42:44] [main/INFO]: LINE        : 557
+[06:42:44] [main/INFO]:               null org.objectweb.asm.tree.FrameNode@781ea688
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: FIELD_INSN  : GETFIELD ahb x Lays;
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: FIELD_INSN  : GETFIELD ahb t Laqo;
+[06:42:44] [main/INFO]: FIELD_INSN  : GETFIELD aqo i I
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKEVIRTUAL ays setDimension (I)V
+[06:42:44] [main/INFO]: LINE        : L1140560982
+[06:42:44] [main/INFO]: LINE        : 563
+[06:42:44] [main/INFO]:               null org.objectweb.asm.tree.FrameNode@6e65e46b
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: FIELD_INSN  : GETFIELD ahb t Laqo;
+[06:42:44] [main/INFO]: FIELD_INSN  : GETFIELD aqo i I
+[06:42:44] [main/INFO]: VAR_INSN    : ISTORE 6
+[06:42:44] [main/INFO]: LINE        : L950285976
+[06:42:44] [main/INFO]: LINE        : 564
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: FIELD_INSN  : GETFIELD ahb t Laqo;
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKEVIRTUAL aqo a (Lahb;)V
+[06:42:44] [main/INFO]: LINE        : L889454050
+[06:42:44] [main/INFO]: LINE        : 565
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: FIELD_INSN  : GETFIELD ahb t Laqo;
+[06:42:44] [main/INFO]: VAR_INSN    : ILOAD 6
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD aqo i I
+[06:42:44] [main/INFO]: LINE        : L717592112
+[06:42:44] [main/INFO]: LINE        : 567
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKEVIRTUAL ahb j ()Lapu;
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb v Lapu;
+[06:42:44] [main/INFO]: LINE        : L1807903167
+[06:42:44] [main/INFO]: LINE        : 569
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: TYPE_INSN   : INSTANCEOF mt
+[06:42:44] [main/INFO]:               IFEQ org.objectweb.asm.tree.JumpInsnNode@72cb82a9
+[06:42:44] [main/INFO]: LINE        : L1485671935
+[06:42:44] [main/INFO]: LINE        : 571
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: TYPE_INSN   : NEW azq
+[06:42:44] [main/INFO]: INSN        : DUP
+[06:42:44] [main/INFO]: TYPE_INSN   : NEW net/minecraftforge/common/WorldSpecificSaveHandler
+[06:42:44] [main/INFO]: INSN        : DUP
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: TYPE_INSN   : CHECKCAST mt
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 1
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESPECIAL net/minecraftforge/common/WorldSpecificSaveHandler <init> (Lmt;Lazc;)V
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESPECIAL azq <init> (Lazc;)V
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb perWorldStorage Lazq;
+[06:42:44] [main/INFO]:               GOTO org.objectweb.asm.tree.JumpInsnNode@5efff4c8
+[06:42:44] [main/INFO]: LINE        : L638120249
+[06:42:44] [main/INFO]: LINE        : 575
+[06:42:44] [main/INFO]:               null org.objectweb.asm.tree.FrameNode@8f8f19b
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: TYPE_INSN   : NEW azq
+[06:42:44] [main/INFO]: INSN        : DUP
+[06:42:44] [main/INFO]: INSN        : ACONST_NULL
+[06:42:44] [main/INFO]: TYPE_INSN   : CHECKCAST azc
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESPECIAL azq <init> (Lazc;)V
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb perWorldStorage Lazq;
+[06:42:44] [main/INFO]: LINE        : L1018066702
+[06:42:44] [main/INFO]: LINE        : 578
+[06:42:44] [main/INFO]:               null org.objectweb.asm.tree.FrameNode@1dd69de7
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: FIELD_INSN  : GETFIELD ahb x Lays;
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKEVIRTUAL ays w ()Z
+[06:42:44] [main/INFO]:               IFNE org.objectweb.asm.tree.JumpInsnNode@7cb6265d
+[06:42:44] [main/INFO]: LINE        : L864904313
+[06:42:44] [main/INFO]: LINE        : 582
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 3
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKEVIRTUAL ahb a (Lahj;)V
+[06:42:44] [main/INFO]: LINE        : L2094293761
+[06:42:44] [main/INFO]: LINE        : 598
+[06:42:44] [main/INFO]:               GOTO org.objectweb.asm.tree.JumpInsnNode@5544e0d9
+[06:42:44] [main/INFO]: LINE        : L411934946
+[06:42:44] [main/INFO]: LINE        : 584
+[06:42:44] [main/INFO]:               null org.objectweb.asm.tree.FrameNode@40fba126
+[06:42:44] [main/INFO]: VAR_INSN    : ASTORE 7
+[06:42:44] [main/INFO]: LINE        : L526917203
+[06:42:44] [main/INFO]: LINE        : 586
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 7
+[06:42:44] [main/INFO]:               LDC org.objectweb.asm.tree.LdcInsnNode@6d58674f
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESTATIC b a (Ljava/lang/Throwable;Ljava/lang/String;)Lb;
+[06:42:44] [main/INFO]: VAR_INSN    : ASTORE 8
+[06:42:44] [main/INFO]: LINE        : L413614262
+[06:42:44] [main/INFO]: LINE        : 590
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 8
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKEVIRTUAL ahb a (Lb;)Lk;
+[06:42:44] [main/INFO]: INSN        : POP
+[06:42:44] [main/INFO]: LINE        : L88616981
+[06:42:44] [main/INFO]: LINE        : 595
+[06:42:44] [main/INFO]:               GOTO org.objectweb.asm.tree.JumpInsnNode@5a0d3c69
+[06:42:44] [main/INFO]: LINE        : L1950435960
+[06:42:44] [main/INFO]: LINE        : 592
+[06:42:44] [main/INFO]:               null org.objectweb.asm.tree.FrameNode@564116b6
+[06:42:44] [main/INFO]: VAR_INSN    : ASTORE 9
+[06:42:44] [main/INFO]: LINE        : L307059955
+[06:42:44] [main/INFO]: LINE        : 597
+[06:42:44] [main/INFO]:               null org.objectweb.asm.tree.FrameNode@2190c4a7
+[06:42:44] [main/INFO]: TYPE_INSN   : NEW s
+[06:42:44] [main/INFO]: INSN        : DUP
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 8
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESPECIAL s <init> (Lb;)V
+[06:42:44] [main/INFO]: INSN        : ATHROW
+[06:42:44] [main/INFO]: LINE        : L1610373223
+[06:42:44] [main/INFO]: LINE        : 600
+[06:42:44] [main/INFO]:               null org.objectweb.asm.tree.FrameNode@1d60188
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: FIELD_INSN  : GETFIELD ahb x Lays;
+[06:42:44] [main/INFO]: INSN        : ICONST_1
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKEVIRTUAL ays d (Z)V
+[06:42:44] [main/INFO]: LINE        : L2030337925
+[06:42:44] [main/INFO]: LINE        : 603
+[06:42:44] [main/INFO]:               null org.objectweb.asm.tree.FrameNode@5e1629fe
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: FIELD_INSN  : GETFIELD ahb perWorldStorage Lazq;
+[06:42:44] [main/INFO]:               LDC org.objectweb.asm.tree.LdcInsnNode@63947d3b
+[06:42:44] [main/INFO]:               LDC org.objectweb.asm.tree.LdcInsnNode@527ffa80
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKEVIRTUAL azq a (Ljava/lang/Class;Ljava/lang/String;)Layl;
+[06:42:44] [main/INFO]: TYPE_INSN   : CHECKCAST wc
+[06:42:44] [main/INFO]: VAR_INSN    : ASTORE 7
+[06:42:44] [main/INFO]: LINE        : L140332829
+[06:42:44] [main/INFO]: LINE        : 605
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 7
+[06:42:44] [main/INFO]:               IFNONNULL org.objectweb.asm.tree.JumpInsnNode@67ebce31
+[06:42:44] [main/INFO]: LINE        : L668338770
+[06:42:44] [main/INFO]: LINE        : 607
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: TYPE_INSN   : NEW wc
+[06:42:44] [main/INFO]: INSN        : DUP
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESPECIAL wc <init> (Lahb;)V
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb A Lwc;
+[06:42:44] [main/INFO]: LINE        : L173035474
+[06:42:44] [main/INFO]: LINE        : 608
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: FIELD_INSN  : GETFIELD ahb perWorldStorage Lazq;
+[06:42:44] [main/INFO]:               LDC org.objectweb.asm.tree.LdcInsnNode@6897dc22
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: FIELD_INSN  : GETFIELD ahb A Lwc;
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKEVIRTUAL azq a (Ljava/lang/String;Layl;)V
+[06:42:44] [main/INFO]:               GOTO org.objectweb.asm.tree.JumpInsnNode@51b40d47
+[06:42:44] [main/INFO]: LINE        : L1176963513
+[06:42:44] [main/INFO]: LINE        : 612
+[06:42:44] [main/INFO]:               null org.objectweb.asm.tree.FrameNode@4e01e070
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 7
+[06:42:44] [main/INFO]: FIELD_INSN  : PUTFIELD ahb A Lwc;
+[06:42:44] [main/INFO]: LINE        : L413221726
+[06:42:44] [main/INFO]: LINE        : 613
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: FIELD_INSN  : GETFIELD ahb A Lwc;
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKEVIRTUAL wc a (Lahb;)V
+[06:42:44] [main/INFO]: LINE        : L1762569016
+[06:42:44] [main/INFO]: LINE        : 616
+[06:42:44] [main/INFO]:               null org.objectweb.asm.tree.FrameNode@179a0d61
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKEVIRTUAL ahb B ()V
+[06:42:44] [main/INFO]: LINE        : L1448705410
+[06:42:44] [main/INFO]: LINE        : 617
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKESPECIAL ahb a ()V
+[06:42:44] [main/INFO]: LINE        : L1156612004
+[06:42:44] [main/INFO]: LINE        : 618
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKEVIRTUAL ahb getServer ()Lorg/bukkit/craftbukkit/v1_7_R4/CraftServer;
+[06:42:44] [main/INFO]:               IFNULL org.objectweb.asm.tree.JumpInsnNode@58bb4b69
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: FIELD_INSN  : GETFIELD ahb world Lorg/bukkit/craftbukkit/v1_7_R4/CraftWorld;
+[06:42:44] [main/INFO]:               IFNULL org.objectweb.asm.tree.JumpInsnNode@1f0db41a
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKEVIRTUAL ahb getServer ()Lorg/bukkit/craftbukkit/v1_7_R4/CraftServer;
+[06:42:44] [main/INFO]: VAR_INSN    : ALOAD 0
+[06:42:44] [main/INFO]: FIELD_INSN  : GETFIELD ahb world Lorg/bukkit/craftbukkit/v1_7_R4/CraftWorld;
+[06:42:44] [main/INFO]: METHOD_INSN : INVOKEVIRTUAL org/bukkit/craftbukkit/v1_7_R4/CraftServer addWorld (Lorg/bukkit/World;)V
+[06:42:44] [main/INFO]: LINE        : L36007700
+[06:42:44] [main/INFO]: LINE        : 619
+[06:42:44] [main/INFO]:               null org.objectweb.asm.tree.FrameNode@45ef2dab
+[06:42:44] [main/INFO]: INSN        : RETURN
+[06:42:44] [main/INFO]: LINE        : L1200473724
+[06:42:44] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: java.lang.reflect.InvocationTargetException
+[06:42:44] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[06:42:44] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[06:42:44] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[06:42:44] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[06:42:44] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:43)
+[06:42:44] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at cpw.mods.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:12)
+[06:42:44] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: Caused by: java.lang.NoClassDefFoundError: net/minecraft/world/World
+[06:42:44] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.Class.getDeclaredMethods0(Native Method)
+[06:42:44] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.Class.privateGetDeclaredMethods(Class.java:2701)
+[06:42:44] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.Class.privateGetMethodRecursive(Class.java:3048)
+[06:42:44] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.Class.getMethod0(Class.java:3018)
+[06:42:44] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.Class.getMethod(Class.java:1784)
+[06:42:44] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:132)
+[06:42:44] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[06:42:44] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	... 6 more
+[06:42:44] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: Caused by: java.lang.ClassNotFoundException: net.minecraft.world.World
+[06:42:44] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
+[06:42:44] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+[06:42:44] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+[06:42:44] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	... 13 more
+[06:42:44] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: Caused by: java.lang.RuntimeException: java.lang.RuntimeException: Pattern not found while trying to inject into <init>
+[06:42:44] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at mcp.mobius.mobiuscore.asm.CoreTransformer.transform(CoreTransformer.java:89)
+[06:42:44] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279)
+[06:42:44] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176)
+[06:42:44] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	... 15 more
+[06:42:44] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: Caused by: java.lang.RuntimeException: Pattern not found while trying to inject into <init>
+[06:42:44] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at mcp.mobius.mobiuscore.asm.transformers.TransformerBase.applyPayloadAfter(TransformerBase.java:224)
+[06:42:44] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at mcp.mobius.mobiuscore.asm.transformers.mcpc.TransformerWorldCauldron.transform(TransformerWorldCauldron.java:160)
+[06:42:44] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at mcp.mobius.mobiuscore.asm.CoreTransformer.transform(CoreTransformer.java:41)
+[06:42:44] [main/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	... 17 more
